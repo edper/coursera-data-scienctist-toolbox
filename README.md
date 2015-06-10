@@ -1,1 +1,1 @@
-# coursera-data-scientist-toolbox
+# datasciencecoursera
